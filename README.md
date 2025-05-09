@@ -1,4 +1,4 @@
-# Projeto-teste - Gerência de Configuração
+# Projeto de Gerência de Configuração
 
 Este é um projeto simples para demonstrar conceitos de **Gerência de Configuração de Software (GCS)** usando Git e GitHub.
 
